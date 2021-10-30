@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+{% load plotly_dash %}
+
+
+<div class="{% plotly_class name='VisualApp' %}" style="width: 100%;height: 100%;">
+    {% plotly_app name="VisualApp" ratio=3.1 %}
+</div>
+
+{% endblock %}

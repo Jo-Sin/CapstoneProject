@@ -1,0 +1,26 @@
+Section on interface,Suicide Method,Location Type,Intervention Type
+1,Jumping from height,All,Physical Barriers
+1,Jumping from height,All,Physical Barriers + Encouraging Help Seeking
+1,Jumping from height,Bridge,Physical Barriers
+1,Jumping from height,Bridge,Physical Barriers + Encouraging Help Seeking
+2,Jumping from height,All,Encouraging Help Seeking
+2,Jumping from height,All,Physical Barriers + Intervention from Third Party
+2,Jumping from height,All,Encouraging Help Seeking + Intervention from Third Party
+2,Jumping from height,All,Physical Barriers + Encouraging Help Seeking + Intervention from Third Party
+2,Jumping from height,Bridge,Encouraging Help Seeking
+2,Jumping from height,Bridge,Physical Barriers + Intervention from Third Party
+2,Jumping from height,Bridge,Encouraging Help Seeking + Intervention from Third Party
+2,Jumping from height,Building,Physical Barriers
+2,Jumping from height,Cliff,Physical Barriers
+2,Jumping from height,Cliff,Physical Barriers + Encouraging Help Seeking + Intervention from Third Party
+2,Jumping from height,Hospital,Physical Barriers
+2,Jumping from height,Terrace,Physical Barriers
+2,Jumping from height,Terrace,Physical Barriers + Encouraging Help Seeking
+2,Jumping in front of moving object,Railway,Physical Barriers
+2,Jumping in front of moving object,Railway,Blue Lights
+2,Carbon monoxide poisoning,All,Encouraging Help Seeking
+2,Carbon monoxide poisoning,All,Encouraging Help Seeking + Intervention from Third Party
+2,Carbon monoxide poisoning,Forest,Encouraging Help Seeking
+2,Carbon monoxide poisoning,Island,Encouraging Help Seeking + Intervention from Third Party
+3,Jumping in front of moving object,Railway,Physical Barriers
+3,Jumping in front of moving object,Railway,Blue Lights
